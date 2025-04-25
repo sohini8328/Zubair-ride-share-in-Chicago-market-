@@ -1,8 +1,5 @@
-# Zubair-ride-share-in-Chicago-market-
-SQL 
 # Business Prospect Analysis for Zubair Ride Share in Chicago Market
 
-## Introduction
 The objective of this project is to analyze how weather conditions impact the ride share business. The insights gained will help Zubair Ride Share Company make informed decisions regarding their business plan, budget allocation, and staffing requirements. This analysis focuses on understanding customer behavior, service demand, and operational adjustments during different weather conditions in Chicago.
 
 ## Process
