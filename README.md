@@ -3,7 +3,7 @@
 The objective of this project is to analyze how weather conditions impact the ride share business. The insights gained will help Zubair Ride Share Company make informed decisions regarding their business plan, budget allocation, and staffing requirements. This analysis focuses on understanding customer behavior, service demand, and operational adjustments during different weather conditions in Chicago.
 
 ## Process
-1. **Data Collection**:
+1. **Data Collection**: 
    - Weather data for Chicago was parsed using Beautiful Soup from a web source.
    - Datasets included cab companies, neighborhoods, and trips.
 
@@ -39,7 +39,6 @@ The objective of this project is to analyze how weather conditions impact the ri
      - On rainy days, a driver completing 2 rides in normal weather might manage only 1 ride.
    - Rainy Saturdays also showed longer travel times compared to other Saturdays, likely due to increased congestion and reduced visibility.
 
-## Conclusion
 This analysis highlights the impact of weather on ride durations and demand. The findings suggest:
 - Adapting staffing strategies during bad weather to meet increased demand.
 - Optimizing routes and service areas to minimize delays.
